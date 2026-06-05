@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+combined_financials.csv
+scored_financials.csv
+piotroski_f_score_results.csv
